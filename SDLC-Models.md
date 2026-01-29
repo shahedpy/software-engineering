@@ -56,6 +56,8 @@ The Waterfall model is one of the earliest SDLC approaches to software developme
 
 ## V Model
 
+- [https://www.geeksforgeeks.org/software-engineering/software-engineering-sdlc-v-model/](https://www.geeksforgeeks.org/software-engineering/software-engineering-sdlc-v-model/)
+
 ### Overview
 The V Model (Verification and Validation Model) is an extension of the Waterfall model. Instead of moving down linearly, the process steps are bent upwards after the coding phase, forming a V shape. It emphasizes testing at each stage of development.
 
