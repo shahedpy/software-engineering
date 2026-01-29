@@ -11,6 +11,7 @@
 ---
 
 ## Waterfall Model
+- [https://www.tutorialspoint.com/sdlc/sdlc_waterfall_model.htm](https://www.tutorialspoint.com/sdlc/sdlc_waterfall_model.htm)
 
 ![Waterfall](waterfall.jpg)
 
