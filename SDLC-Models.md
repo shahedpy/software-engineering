@@ -54,10 +54,10 @@ The Waterfall model is one of the earliest SDLC approaches to software developme
 ## V Model
 
 ### Overview
-The V-Model (Verification and Validation Model) is an extension of the Waterfall model. Instead of moving down linearly, the process steps are bent upwards after the coding phase, forming a V shape. It emphasizes testing at each stage of development.
+The V Model (Verification and Validation Model) is an extension of the Waterfall model. Instead of moving down linearly, the process steps are bent upwards after the coding phase, forming a V shape. It emphasizes testing at each stage of development.
 
 ### Structure
-The V-Model consists of two main branches:
+The V Model consists of two main branches:
 
 #### Left Side (Verification - "Are we building the product right?")
 1. **Requirements Analysis** → Corresponding Test: **Acceptance Testing**
