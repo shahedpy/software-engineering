@@ -12,6 +12,9 @@
 
 ## Waterfall Model
 
+![Waterfall](waterfall.jpg)
+
+
 ### Overview
 The Waterfall model is one of the earliest SDLC approaches to software development. It follows a linear and sequential approach where progress flows steadily downwards (like a waterfall) through distinct phases.
 
